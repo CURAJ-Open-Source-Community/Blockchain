@@ -1,0 +1,1 @@
+ipfs pubsub sub block > subdata.txt
